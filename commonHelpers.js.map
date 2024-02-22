@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers.js","sources":["../src/main.js"],"sourcesContent":["var swiper = new Swiper(\".mySwiper\", {\n      navigation: {\n        nextEl: \".swiper-button-next\",\n        prevEl: \".swiper-button-prev\",\n      },\n    });"],"names":[],"mappings":"ssBAAa,IAAI,OAAO,YAAa,CAC/B,WAAY,CACV,OAAQ,sBACR,OAAQ,qBACT,CACF,CAAA"}
