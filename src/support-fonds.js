@@ -1,11 +1,13 @@
-import save from './img/'
+import save from './img/save-the-children@1x.png'
+import save2 from './img/save-the-children@2x.png'
+import save3 from './img/save-the-children@3x.png'
 export const supporters = [
   {
     title: 'Save the Children',
     url: 'https://www.savethechildren.net/what-we-do/emergencies/ukraine-crisis',
     img: save,
-    imgRetinaTwo: './img/save-the-children@2x.png',
-    imgRetinaThree: './img/save-the-children@3x.png',
+    imgRetinaTwo: save2,
+    imgRetinaThree: save3,
   },
   {
     title: 'Project HOPE',
